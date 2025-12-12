@@ -1,0 +1,5 @@
+{
+  "name": "AuthFlow Pro",
+  "description": "A comprehensive React authentication dashboard simulating a full-stack environment. Features secure login/register flows, role-based access control (RBAC), JWT token handling simulation, and protected routes.",
+  "requestFramePermissions": []
+}
